@@ -1,0 +1,8 @@
+jorge;mtu67453;reader
+manuel;zpt567;reader
+joana;azq1212;publisher
+raquel;cla461035;administrator
+pedro;remoaac2023;administrator
+marta;dei3498;publisher
+jonas;tgv303938;publisher
+tiago;saojoao2003;reader
